@@ -1,6 +1,6 @@
-# Empirical Evaluation for "Minimax AUC Fairness: Efficient Algorithm with Provable Convergence"
+# MinimaxFairAUC 
 
-To speed up the process, we only apply 3 random seeds in training and testing. It takes about 5 hours to finish all experiments. Please follow the steps to run experiments.
+Repository for "Minimax AUC Fairness: Efficient Algorithm with Provable Convergence". To speed up the process, we only apply 3 random seeds in training and testing. It takes about 5 hours to finish all experiments. Please follow the steps to run experiments.
 
 ## (Optional) Install dependencies in your virtual environment
 
